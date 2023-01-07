@@ -1,0 +1,7 @@
+N. --> Name
+wk. --> work
+wk, --> work,
+wk --> work
+ch. --> chapter
+ch° --> chapter
+partic. -> particular
