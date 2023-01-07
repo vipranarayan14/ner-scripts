@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+spacy = "*"
+indic-transliteration = "*"
 
 [dev-packages]
 flake8 = "*"
