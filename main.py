@@ -1,7 +1,7 @@
 import csv
 import sys
 
-list_file_path = "list.csv"
+list_file_path = "data/list_clean.csv"
 
 list_file = open(list_file_path)
 reader = csv.DictReader(list_file)
